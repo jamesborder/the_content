@@ -4,13 +4,7 @@
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is responsible for the content of the "The Simpsons" and "The Wire" character viewer apps. 
+It is a package that can be used by other apps to display the content of the character viewer. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It will be included in the "The Simpsons" and "The Wire" character viewer apps as a dependency or can be launched as a standalone app and will display "The Simpsons" content by default.
