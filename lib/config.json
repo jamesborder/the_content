@@ -1,0 +1,8 @@
+{
+  "com.sample.simpsonsviewer": {
+    "Package_Bundle_name": "com.sample.simpsonsviewer",
+    "Name": "Simpsons Character Viewer",
+    "Data_API": "https://api.duckduckgo.com/?q=simpsons+characters&format=json",
+    "Missing_Image": "https://media.tenor.com/AMW7iZUj-JwAAAAd/homer-simpson-hiding.gif"
+  }
+}
