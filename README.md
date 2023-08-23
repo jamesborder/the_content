@@ -1,6 +1,4 @@
-# char_viewer_content
-
-"Character viewer content package"
+#"Character viewer content package"
 
 ## Getting Started
 
